@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to the Landing Page</h1>
+    <nav>
+        <ul>
+            <li><a href="meme.html">Meme Page</a></li>
+            <li><a href="User Input Validation.html">User Input Validation</a></li>
+            <li><a href="Untitled-1.html">Programming Concepts</a></li>
+            <li><a href="ToggleSound.html">ToogleSound</a></li>
+            <li><a href="timer html.html">timer</a></li>
+            <li><a href="The Building Blocks of JavaScript.html">Building</a></li>
+            <li><a href="table.html">Table</a></li>
+            <li><a href="Palindrome.html">Palindrome</a></li>
+            <li><a href="index.html">index</a></li>
+            <li><a href="Event Driven Programming.html">Event Programming</a></li>
+            <li><a href="Blastoff.html">Blastoff</a></li>
+            <!--  links to other pages -->
+        </ul>
+    </nav>
+</body>
+</html>
